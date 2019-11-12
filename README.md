@@ -31,4 +31,7 @@ The player can only hold 4 spices at a time.
 ### Files:
   - PlayerController.cs contains all the planner code
   - Action.cs a class for instantiating an action for the agent
+  
+  
+This project is done in the setting of COMP521 class at McGill University. All the credit for coming up with this project goes to Professor Clark Verbrugge. 
 

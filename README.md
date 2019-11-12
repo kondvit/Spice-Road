@@ -25,7 +25,7 @@ The goal of this project is to implement a Goal Oriented Action Planner (GOAP) A
 (h) Trader 8: Takes 1 Saffron, 1 Cinnamon and 1 Cloves unit and gives you 1 Sumac unit.
 
 ### Aditional rules:
-The player has a permanent unlimited storage space, the caravan.
+The player has a permanent unlimited storage space, the caravan in the middle.
 
 The player can only hold 4 spices at a time.
 

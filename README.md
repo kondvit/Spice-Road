@@ -33,9 +33,9 @@ The player has a permanent unlimited storage space, the caravan in the middle.
 The player can only hold 4 spices at a time.
 
 ### Files:
-  - PlayerController.cs contains all the planner code
-  - Action.cs a class for instantiating an action for the agent
+  - [PlayerController.cs](/Code/PlayerController.cs) contains all the planner code
+  - [Action.cs](/Code/Action.cs) a class for instantiating an action for the agent
   
   
-This project is done in the setting of COMP521 class at McGill University. All the credit for coming up with this project goes to Professor Clark Verbrugge. 
+This project is done in the setting of COMP521 class at McGill University. All the credit for coming up with this project goes to Professor [Clark Verbrugge](http://www.sable.mcgill.ca/~clump/). 
 

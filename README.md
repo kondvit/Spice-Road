@@ -26,6 +26,7 @@ The goal of this project is to implement a Goal Oriented Action Planner (GOAP) A
 
 ### Aditional rules:
 The player has a permanent unlimited storage space, the caravan.
+
 The player can only hold 4 spices at a time.
 
 ### Files:

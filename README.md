@@ -1,6 +1,6 @@
 # Spice-Road
 
-This is my recent ongoing project, have not completed yet.
+(Disclaimer) This is my most recent ongoing project. The code may look raw and many comments are not removed yet.
 
 ## Goal
 
@@ -20,4 +20,8 @@ The goal of this project is to implement a Goal Oriented Action Planner (GOAP) A
 ### Aditional rules:
 The player has a permanent unlimited storage space, the caravan.
 The player can only hold 4 spices at a time.
+
+### Files:
+  - PlayerController.cs contains all the planner code
+  - Action.cs a class for instantiating an action for the agent
 

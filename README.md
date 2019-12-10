@@ -7,7 +7,7 @@
 
 ## Goal
 
-The goal of this project is to implement a Goal Oriented Action Planner (GOAP) AI system. The player agent (green) has to collect two of each spice by making intelligent trades. The complexity of the planner comes from the thief (red). Every 5 seconds the thief has a 33% chance of stealing from the player. The player agent has to adapt to the new state and solve the problem. 
+The goal of this project is to implement a Goal Oriented Action Planner using Utility based AI system. The player agent (green) has to collect two of each spice by making intelligent trades. The complexity of the planner comes from the thief (red). Every 5 seconds the thief has a 33% chance of stealing from the player. The player agent has to adapt to the new state and solve the problem. 
 
 ### The following trades are possible:
 

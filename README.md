@@ -1,5 +1,7 @@
 # Spice-Road
-
+<p align="center">
+  <img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/caravansample.gif?raw=true"/>
+</p>
 
 ## Goal
 

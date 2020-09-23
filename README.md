@@ -1,9 +1,5 @@
 # Spice-Road
 
-(Disclaimer) This is my most recent ongoing project. The code may look raw and many comments are not removed yet.
-<p align="center">
-  <img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/caravansample.gif?raw=true"/>
-</p>
 
 ## Goal
 
